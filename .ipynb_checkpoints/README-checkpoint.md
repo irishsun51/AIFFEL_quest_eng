@@ -1,0 +1,2 @@
+# firtst-repository
+## git config
